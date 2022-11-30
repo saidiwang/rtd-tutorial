@@ -20,3 +20,8 @@ Contents
 
    usage
    api
+   scReadSim/OVERVIEW/API
+   scReadSim/OVERVIEW/About scReadSim.rst
+   scReadSim/TUTORIALS/scATACseq_INPUT_10X.rst
+   scReadSim/TUTORIALS/scATACseq_NoInput_10X.rst
+   scReadSim/TUTORIALS/scRNAseq_10X.rst
